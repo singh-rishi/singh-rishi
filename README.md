@@ -1,5 +1,6 @@
-[![MasterHead](https://www.canva.com/design/DAFZK3-nAwM/9UF7CqIGzMcuZJc1OMBAYw/view?utm_content=DAFZK3-nAwM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]
-[!MasterHead](https://www.canva.com/design/DAFZK3-nAwM/9UF7CqIGzMcuZJc1OMBAYw/view?utm_content=DAFZK3-nAwM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[![MasterHead](https://www.canva.com/design/DAFZK3-nAwM/9UF7CqIGzMcuZJc1OMBAYw/view?utm_content=DAFZK3-nAwM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](www.youtube.com)
+
+(img align="right" alt="Coding" width="400" src="https://www.canva.com/design/DAFZK3-nAwM/9UF7CqIGzMcuZJc1OMBAYw/view?utm_content=DAFZK3-nAwM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)")
 
 <h1 align="center">Hi 👋, I'm Rishikesh Singh</h1>
 <h3 align="center">An enthusiast Data Analyst from India.</h3>
@@ -8,11 +9,11 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/singh-rishi](https://github.com/singh-rishi)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/singh-rishi)
 
 - 💬 Ask me about **SQL, Python, Excel, Machine Learning**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1gF-scEgQn1d-fHaXGUqTKit4SX7RhHE_?usp=sharing](https://drive.google.com/drive/folders/1gF-scEgQn1d-fHaXGUqTKit4SX7RhHE_?usp=sharing)
+- 📄 Know about my experiences [:  Resume](https://drive.google.com/drive/folders/1gF-scEgQn1d-fHaXGUqTKit4SX7RhHE_?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny.**
 <br>
@@ -24,6 +25,16 @@
 <br>
 
 <h3 align="left">Technical Skills:</h3>
+
+- Excel
+
+- SQL
+
+- Python
+
+- Machine Learning
+- Case Study
+
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
