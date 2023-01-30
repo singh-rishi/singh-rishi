@@ -1,4 +1,4 @@
-[!MASTERHEAD](https://www.canva.com/design/DAFZK3-nAwM/9UF7CqIGzMcuZJc1OMBAYw/view?utm_content=DAFZK3-nAwM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[!MasterHead](https://www.canva.com/design/DAFZK3-nAwM/9UF7CqIGzMcuZJc1OMBAYw/view?utm_content=DAFZK3-nAwM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <h1 align="center">Hi 👋, I'm Rishikesh Singh</h1>
 <h3 align="center">An enthusiast Data Analyst from India.</h3>
