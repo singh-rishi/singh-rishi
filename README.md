@@ -20,7 +20,8 @@
 <a href="https://linkedin.com/in/rishikeshhsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishikeshhsingh" height="30" width="40" /></a>
 <a href="https://instagram.com/rishi__singh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishi__singh07" height="30" width="40" /></a>
 </p>
-
+<br>
+<br>
 <h3 align="left">Technical Skills:</h3>
 
 <h3 align="left">Languages and Tools:</h3>
